@@ -1,0 +1,32 @@
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\bin\Debug\ProyectoFinalLFP.exe.config
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\bin\Debug\ProyectoFinalLFP.exe
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\bin\Debug\ProyectoFinalLFP.pdb
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\TraductorUTESA.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\TraductorUTESA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\ProyectoFinalLFP.Form1.resources
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\ProyectoFinalLFP.Properties.Resources.resources
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\TraductorUTESA.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\TraductorUTESA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\ProyectoFinalLFP.exe
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\ProyectoFinalLFP.pdb
+C:\Users\Raymond Estrella\Desktop\Tarea Semana 6\Traductor\bin\Debug\Utesa.exe.config
+C:\Users\Raymond Estrella\Desktop\Tarea Semana 6\Traductor\bin\Debug\Utesa.exe
+C:\Users\Raymond Estrella\Desktop\Tarea Semana 6\Traductor\bin\Debug\Utesa.pdb
+C:\Users\Raymond Estrella\Desktop\Tarea Semana 6\Traductor\obj\Debug\TraductorUTESA.csproj.AssemblyReference.cache
+C:\Users\Raymond Estrella\Desktop\Tarea Semana 6\Traductor\obj\Debug\TraductorUTESA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raymond Estrella\Desktop\Tarea Semana 6\Traductor\obj\Debug\ProyectoFinalLFP.Form1.resources
+C:\Users\Raymond Estrella\Desktop\Tarea Semana 6\Traductor\obj\Debug\Utesa.Properties.Resources.resources
+C:\Users\Raymond Estrella\Desktop\Tarea Semana 6\Traductor\obj\Debug\TraductorUTESA.csproj.GenerateResource.cache
+C:\Users\Raymond Estrella\Desktop\Tarea Semana 6\Traductor\obj\Debug\TraductorUTESA.csproj.CoreCompileInputs.cache
+C:\Users\Raymond Estrella\Desktop\Tarea Semana 6\Traductor\obj\Debug\Utesa.exe
+C:\Users\Raymond Estrella\Desktop\Tarea Semana 6\Traductor\obj\Debug\Utesa.pdb
+C:\Users\kelvin\Desktop\Tarea Semana 6(Traductor)\Traductor\bin\Debug\Utesa.exe.config
+C:\Users\kelvin\Desktop\Tarea Semana 6(Traductor)\Traductor\bin\Debug\Utesa.exe
+C:\Users\kelvin\Desktop\Tarea Semana 6(Traductor)\Traductor\bin\Debug\Utesa.pdb
+C:\Users\kelvin\Desktop\Tarea Semana 6(Traductor)\Traductor\obj\Debug\TraductorUTESA.csproj.AssemblyReference.cache
+C:\Users\kelvin\Desktop\Tarea Semana 6(Traductor)\Traductor\obj\Debug\ProyectoFinalLFP.Form1.resources
+C:\Users\kelvin\Desktop\Tarea Semana 6(Traductor)\Traductor\obj\Debug\Utesa.Properties.Resources.resources
+C:\Users\kelvin\Desktop\Tarea Semana 6(Traductor)\Traductor\obj\Debug\TraductorUTESA.csproj.GenerateResource.cache
+C:\Users\kelvin\Desktop\Tarea Semana 6(Traductor)\Traductor\obj\Debug\TraductorUTESA.csproj.CoreCompileInputs.cache
+C:\Users\kelvin\Desktop\Tarea Semana 6(Traductor)\Traductor\obj\Debug\Utesa.exe
+C:\Users\kelvin\Desktop\Tarea Semana 6(Traductor)\Traductor\obj\Debug\Utesa.pdb
